@@ -1,9 +1,7 @@
-import React from 'react';
+import React from "react";
 
 function DashboradPage() {
-  return (
-    <div>대시보드입니다</div>
-  )
+  return <h1 className="text-3xl font-bold underline">대시보드</h1>;
 }
 
 export default DashboradPage;
