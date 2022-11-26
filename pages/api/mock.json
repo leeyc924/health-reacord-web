@@ -1,202 +1,204 @@
-[
-  {
-    "regDt": "8월 16일",
-    "pushupCnt": [15, 15, 15, 9, 6],
-    "pushupAllCnt": 50,
-    "pullupCnt": [5, 5, 3, 3, 3, 1],
-    "pullupAllCnt": 20
-  },
+{
+  "record": [
+    {
+      "regDt": "8월 16일",
+      "pushupCnt": [15, 15, 15, 9, 6],
+      "pushupAllCnt": 50,
+      "pullupCnt": [5, 5, 3, 3, 3, 1],
+      "pullupAllCnt": 20
+    },
 
-  {
-    "regDt": "8월 22일",
-    "pushupCnt": [15, 11, 8, 6, 3],
-    "pushupAllCnt": 43,
-    "pullupCnt": [5, 5, 4, 3, 3, 1],
-    "pullupAllCnt": 21
-  },
+    {
+      "regDt": "8월 22일",
+      "pushupCnt": [15, 11, 8, 6, 3],
+      "pushupAllCnt": 43,
+      "pullupCnt": [5, 5, 4, 3, 3, 1],
+      "pullupAllCnt": 21
+    },
 
-  {
-    "regDt": "8월 24일",
-    "pushupCnt": [10, 10, 10, 7, 5, 3],
-    "pushupAllCnt": 44,
-    "pullupCnt": [5, 4, 3, 3, 3, 3],
-    "pullupAllCnt": 22
-  },
-  {
-    "regDt": "08월 26일",
-    "pushupCnt": [12, 12, 10, 7, 8],
-    "pushupAllCnt": 46,
-    "pullupCnt": [7, 5, 3, 3, 3, 3],
-    "pullupAllCnt": 24
-  },
+    {
+      "regDt": "8월 24일",
+      "pushupCnt": [10, 10, 10, 7, 5, 3],
+      "pushupAllCnt": 44,
+      "pullupCnt": [5, 4, 3, 3, 3, 3],
+      "pullupAllCnt": 22
+    },
+    {
+      "regDt": "08월 26일",
+      "pushupCnt": [12, 12, 10, 7, 8],
+      "pushupAllCnt": 46,
+      "pullupCnt": [7, 5, 3, 3, 3, 3],
+      "pullupAllCnt": 24
+    },
 
-  {
-    "regDt": "08월 28일",
-    "pushupCnt": [14, 12, 9, 8, 8],
-    "pushupAllCnt": 51,
-    "pullupCnt": [7, 5, 4, 3, 3, 3],
-    "pullupAllCnt": 25
-  },
+    {
+      "regDt": "08월 28일",
+      "pushupCnt": [14, 12, 9, 8, 8],
+      "pushupAllCnt": 51,
+      "pullupCnt": [7, 5, 4, 3, 3, 3],
+      "pullupAllCnt": 25
+    },
 
-  {
-    "regDt": "08월 30일",
-    "pushupCnt": [16, 14, 10, 8, 8],
-    "pushupAllCnt": 56,
-    "pullupCnt": [8, 5, 4, 4, 3, 2],
-    "pullupAllCnt": 26
-  },
+    {
+      "regDt": "08월 30일",
+      "pushupCnt": [16, 14, 10, 8, 8],
+      "pushupAllCnt": 56,
+      "pullupCnt": [8, 5, 4, 4, 3, 2],
+      "pullupAllCnt": 26
+    },
 
-  {
-    "regDt": "09월 1일",
-    "pushupCnt": [20, 17, 10, 8, 8],
-    "pushupAllCnt": 63,
-    "pullupCnt": [6, 5, 5, 4, 3, 3],
-    "pullupAllCnt": 26
-  },
+    {
+      "regDt": "09월 1일",
+      "pushupCnt": [20, 17, 10, 8, 8],
+      "pushupAllCnt": 63,
+      "pullupCnt": [6, 5, 5, 4, 3, 3],
+      "pullupAllCnt": 26
+    },
 
-  {
-    "regDt": "09월 4일",
-    "pushupCnt": [19, 18, 12, 8, 8],
-    "pushupAllCnt": 65,
-    "pullupCnt": [7, 6, 5, 4, 4],
-    "pullupAllCnt": 26
-  },
+    {
+      "regDt": "09월 4일",
+      "pushupCnt": [19, 18, 12, 8, 8],
+      "pushupAllCnt": 65,
+      "pullupCnt": [7, 6, 5, 4, 4],
+      "pullupAllCnt": 26
+    },
 
-  {
-    "regDt": "09월 8일",
-    "pushupCnt": [20, 20, 15, 10, 10],
-    "pushupAllCnt": 75,
-    "pullupCnt": [8, 6, 5, 4, 4],
-    "pullupAllCnt": 27
-  },
+    {
+      "regDt": "09월 8일",
+      "pushupCnt": [20, 20, 15, 10, 10],
+      "pushupAllCnt": 75,
+      "pullupCnt": [8, 6, 5, 4, 4],
+      "pullupAllCnt": 27
+    },
 
-  {
-    "regDt": "09월 11일 54.5kg",
-    "pushupCnt": [23, 20, 15, 10, 10],
-    "pushupAllCnt": 78,
-    "pullupCnt": [9, 6, 5, 4, 4],
-    "pullupAllCnt": 28
-  },
+    {
+      "regDt": "09월 11일 54.5kg",
+      "pushupCnt": [23, 20, 15, 10, 10],
+      "pushupAllCnt": 78,
+      "pullupCnt": [9, 6, 5, 4, 4],
+      "pullupAllCnt": 28
+    },
 
-  {
-    "regDt": "09월 13일 ",
-    "pushupCnt": [26, 20, 14, 10, 10],
-    "pushupAllCnt": 80,
-    "pullupCnt": [6, 6, 6, 4, 3, 3],
-    "pullupAllCnt": 28
-  },
+    {
+      "regDt": "09월 13일 ",
+      "pushupCnt": [26, 20, 14, 10, 10],
+      "pushupAllCnt": 80,
+      "pullupCnt": [6, 6, 6, 4, 3, 3],
+      "pullupAllCnt": 28
+    },
 
-  {
-    "regDt": "09월 19일",
-    "weight": 52.3,
-    "pushupCnt": [20, 20, 20, 10, 10, 10],
-    "pushupAllCnt": 90,
-    "pullupCnt": [7, 7, 4, 4, 4, 3],
-    "pullupAllCnt": 29
-  },
+    {
+      "regDt": "09월 19일",
+      "weight": 52.3,
+      "pushupCnt": [20, 20, 20, 10, 10, 10],
+      "pushupAllCnt": 90,
+      "pullupCnt": [7, 7, 4, 4, 4, 3],
+      "pullupAllCnt": 29
+    },
 
-  {
-    "regDt": "09월 22일",
-    "pushupCnt": [20, 20, 20, 10, 10, 10],
-    "pushupAllCnt": 90,
-    "pullupCnt": [8, 6, 5, 4, 4, 3],
-    "pullupAllCnt": 30
-  },
+    {
+      "regDt": "09월 22일",
+      "pushupCnt": [20, 20, 20, 10, 10, 10],
+      "pushupAllCnt": 90,
+      "pullupCnt": [8, 6, 5, 4, 4, 3],
+      "pullupAllCnt": 30
+    },
 
-  {
-    "regDt": "09월 26일",
-    "pushupCnt": [20, 20, 15, 10, 10, 10, 10],
-    "pushupAllCnt": 95,
-    "pullupCnt": [8, 5, 6, 5, 4],
-    "pullupAllCnt": 28
-  },
+    {
+      "regDt": "09월 26일",
+      "pushupCnt": [20, 20, 15, 10, 10, 10, 10],
+      "pushupAllCnt": 95,
+      "pullupCnt": [8, 5, 6, 5, 4],
+      "pullupAllCnt": 28
+    },
 
-  {
-    "regDt": "10월 03일",
-    "pushupCnt": [20, 15, 10, 10, 10, 10],
-    "pushupAllCnt": 75,
-    "pullupCnt": [9, 7, 6, 5, 4],
-    "pullupAllCnt": 31
-  },
+    {
+      "regDt": "10월 03일",
+      "pushupCnt": [20, 15, 10, 10, 10, 10],
+      "pushupAllCnt": 75,
+      "pullupCnt": [9, 7, 6, 5, 4],
+      "pullupAllCnt": 31
+    },
 
-  {
-    "regDt": "10월 08일",
-    "pushupCnt": [20, 20, 10, 10, 10, 10],
-    "pushupAllCnt": 80,
-    "pullupCnt": [9, 7, 6, 5, 5],
-    "pullupAllCnt": 32
-  },
+    {
+      "regDt": "10월 08일",
+      "pushupCnt": [20, 20, 10, 10, 10, 10],
+      "pushupAllCnt": 80,
+      "pullupCnt": [9, 7, 6, 5, 5],
+      "pullupAllCnt": 32
+    },
 
-  {
-    "regDt": "10월 15일",
-    "pushupCnt": [20, 20, 15],
-    "pushupAllCnt": 55,
-    "pullupCnt": [9, 8, 5, 5, 4, 2],
-    "pullupAllCnt": 32
-  },
+    {
+      "regDt": "10월 15일",
+      "pushupCnt": [20, 20, 15],
+      "pushupAllCnt": 55,
+      "pullupCnt": [9, 8, 5, 5, 4, 2],
+      "pullupAllCnt": 32
+    },
 
-  {
-    "regDt": "10월 17일",
-    "pushupCnt": [20, 20, 10, 10, 10],
-    "pushupAllCnt": 70,
-    "pullupCnt": [10, 8, 6, 5, 5],
-    "pullupAllCnt": 34
-  },
+    {
+      "regDt": "10월 17일",
+      "pushupCnt": [20, 20, 10, 10, 10],
+      "pushupAllCnt": 70,
+      "pullupCnt": [10, 8, 6, 5, 5],
+      "pullupAllCnt": 34
+    },
 
-  {
-    "regDt": "10월 25일",
-    "pushupCnt": [20, 15, 15, 13, 12],
-    "pushupAllCnt": 75,
-    "pullupCnt": [5, 5, 5, 5, 5, 5],
-    "pullupAllCnt": 30
-  },
-  {
-    "regDt": "10월 27일",
-    "pushupCnt": [20, 15, 15, 15, 15],
-    "pushupAllCnt": 80,
-    "pullupCnt": [9, 7, 5, 5, 5, 5],
-    "pullupAllCnt": 36
-  },
+    {
+      "regDt": "10월 25일",
+      "pushupCnt": [20, 15, 15, 13, 12],
+      "pushupAllCnt": 75,
+      "pullupCnt": [5, 5, 5, 5, 5, 5],
+      "pullupAllCnt": 30
+    },
+    {
+      "regDt": "10월 27일",
+      "pushupCnt": [20, 15, 15, 15, 15],
+      "pushupAllCnt": 80,
+      "pullupCnt": [9, 7, 5, 5, 5, 5],
+      "pullupAllCnt": 36
+    },
 
-  {
-    "regDt": "10월 31일",
-    "pushupCnt": [20, 16, 15, 15, 15],
-    "pushupAllCnt": 81,
-    "pullupCnt": [9, 8, 6, 5, 5, 5],
-    "pullupAllCnt": 38
-  },
+    {
+      "regDt": "10월 31일",
+      "pushupCnt": [20, 16, 15, 15, 15],
+      "pushupAllCnt": 81,
+      "pullupCnt": [9, 8, 6, 5, 5, 5],
+      "pullupAllCnt": 38
+    },
 
-  {
-    "regDt": "11월 02일",
-    "pushupCnt": [20, 20, 15, 15, 15, 10],
-    "pushupAllCnt": 95,
-    "pullupCnt": [10, 9, 6, 5, 5, 5],
-    "pullupAllCnt": 40
-  },
+    {
+      "regDt": "11월 02일",
+      "pushupCnt": [20, 20, 15, 15, 15, 10],
+      "pushupAllCnt": 95,
+      "pullupCnt": [10, 9, 6, 5, 5, 5],
+      "pullupAllCnt": 40
+    },
 
-  {
-    "regDt": "11월 7일",
-    "pushupCnt": [20, 16, 12, 12, 12, 13, 10],
-    "pushupAllCnt": 96,
-    "pullupCnt": [10, 9, 6, 6, 6, 5],
-    "pullupAllCnt": 42
-  },
+    {
+      "regDt": "11월 7일",
+      "pushupCnt": [20, 16, 12, 12, 12, 13, 10],
+      "pushupAllCnt": 96,
+      "pullupCnt": [10, 9, 6, 6, 6, 5],
+      "pullupAllCnt": 42
+    },
 
-  {
-    "regDt": "11월 15일",
-    "pullupCnt": [11, 9, 6, 5, 4, 4, 3],
-    "pullupAllCnt": 42
-  },
+    {
+      "regDt": "11월 15일",
+      "pullupCnt": [11, 9, 6, 5, 4, 4, 3],
+      "pullupAllCnt": 42
+    },
 
-  {
-    "regDt": "11월 16일",
-    "pushupCnt": [20, 20, 15, 15, 15, 12],
-    "pushupAllCnt": 97
-  },
+    {
+      "regDt": "11월 16일",
+      "pushupCnt": [20, 20, 15, 15, 15, 12],
+      "pushupAllCnt": 97
+    },
 
-  {
-    "regDt": "11월 20일",
-    "pullupCnt": [10, 9, 5, 5, 5, 4, 5],
-    "pullupAllCnt": 43
-  }
-]
+    {
+      "regDt": "11월 20일",
+      "pullupCnt": [10, 9, 5, 5, 5, 4, 5],
+      "pullupAllCnt": 43
+    }
+  ]
+}
