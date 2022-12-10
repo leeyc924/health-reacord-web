@@ -29,7 +29,7 @@ const EditBox = ({ onEdit, initForm }: { onEdit: (form: IForm) => void; initForm
       {isOpen && (
         <form
           id={form.id}
-          style={{ position: 'absolute', width: 465, zIndex: 2, left: -395 }}
+          style={{ position: 'absolute', width: 485, zIndex: 2, left: -415 }}
           className="w-full flex flex-col gap-2 bg-gray-300 rounded-xs shadow-lg p-4"
           onSubmit={e => {
             e.preventDefault();

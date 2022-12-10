@@ -37,7 +37,7 @@ const AddBox = ({ onAdd }: { onAdd: (form: Omit<IForm, 'id'>) => void }) => {
       </button>
       {isOpen && (
         <form
-          style={{ position: 'absolute', width: 465, zIndex: 2, left: -160 }}
+          style={{ position: 'absolute', width: 485, zIndex: 2, left: -160 }}
           className="w-full flex flex-col gap-2 bg-blue-200 rounded-xs shadow-lg p-4"
           onSubmit={e => {
             e.preventDefault();
