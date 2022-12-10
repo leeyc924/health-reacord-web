@@ -1,5 +1,5 @@
 {
-  "name": "health-record-web",
+  "name": "tailwind-next-crud",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -14,6 +14,7 @@
     "@types/react": "18.0.25",
     "@types/react-dom": "18.0.9",
     "axios": "^1.2.0",
+    "chart.js": "^4.0.1",
     "classnames": "^2.3.2",
     "dayjs": "^1.11.6",
     "eslint": "8.28.0",

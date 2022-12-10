@@ -4,10 +4,11 @@ interface ClickOutsideProps {
   onClickOutside: (e: MouseEvent) => void;
   tag?: 'div' | 'nav' | 'section' | 'select' | 'option' | 'input' | 'button';
   children?: ReactNode;
+  style?: React.CSSProperties;
   className?: string;
 }
 
-const ClickOutside = ({ tag = 'div', className, onClickOutside, children, ...rest }: ClickOutsideProps) => {
+const ClickOutside = ({ tag = 'div', className, onClickOutside, children, style, ...rest }: ClickOutsideProps) => {
   const Componet = tag;
   const containerRef = useRef<any>();
 
@@ -29,7 +30,7 @@ const ClickOutside = ({ tag = 'div', className, onClickOutside, children, ...res
   }, [handleClick]);
 
   return (
-    <Componet ref={containerRef} className={className || ''} {...rest}>
+    <Componet ref={containerRef} className={className || ''} style={style} {...rest}>
       {children}
     </Componet>
   );
